@@ -4,7 +4,7 @@ import './App.css';
 import MovieCard from './MovieCard';
 
 
-const API_URL ="http://www.omdbapi.com/?i=tt3896198&apikey=245d669"
+const API_URL ="http://www.omdbapi.com/?apikey=245d669"
 
 // const movies  = {
 //   "Title": "Italian Spiderman",
